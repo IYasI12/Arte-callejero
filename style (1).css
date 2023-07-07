@@ -1,0 +1,31 @@
+
+
+
+.body {
+    background-color: #C2ABA6 ;
+}
+
+.h1 {
+    font-size: 40px;
+    color: black;
+    font-weight: 600;
+    margin-left: 35px;
+    transition: .3s;
+    text-decoration: none;
+    background-color: transparent;
+    bottom: 300;
+    position: relative;
+}
+
+    .h2 {
+        font-size: 20px;
+        
+        font-weight: 400;
+        margin-left: 35px;
+        transition: .5s;
+        text-decoration: none;
+        background-color: transparent;
+        bottom: -300;
+        position: relative;
+    
+    }
